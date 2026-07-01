@@ -50,8 +50,11 @@ If you'd rather work on your own laptop:
    conda activate pychaste
    ```
 4. Install Jupyter Lab into the environment and launch it:
-   ```
+   ```sh
    mamba install -c conda-forge jupyterlab
+   ```
+   
+   ```sh
    jupyter lab
    ```
    If you already have Jupyter Lab installed system-wide, you don't need it in the `pychaste` environment. Instead, install `ipykernel` and register the environment as a kernel instead:
