@@ -10,7 +10,7 @@ There are multiple ways to get set up for this session, described below. We reco
 > This is the recommended option. No local install is required, and you get access to a virtual machine with lots of CPU cores and memory.
 
 > [!IMPORTANT]
-> You'll need a GitHub account to use Codespaces. If you don't have one, [sign up](https://github.com/signup) and continue with the following instructions.
+> You'll need a GitHub account to use Codespaces. If you don't already have one, you may want to [sign up for one](https://github.com/signup) before continuing with the following instructions.
 
 1. Go to the [Chaste repository](https://github.com/Chaste/Chaste).
 2. Click **Code > Codespaces > "..." > New with options...**
