@@ -36,7 +36,7 @@ There are multiple ways to get set up for this session, described below. We reco
 
 If you'd rather work on your own laptop:
 
-1. Install [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install) or [Anaconda](https://www.anaconda.com/docs/getting-started/anaconda/install) if you don't already have it.
+1. Install [conda-forge](https://conda-forge.org/download/), or alternatively [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install) or [Anaconda](https://www.anaconda.com/docs/getting-started/anaconda/install) if you don't already have it.
 2. Install [`mamba`](https://mamba.readthedocs.io) into your base environment as dependency resolution with plain `conda` can be very slow:
    ```
    conda install -n base -c conda-forge mamba
