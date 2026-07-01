@@ -22,13 +22,13 @@ There are multiple ways to get set up for this session, described below. We reco
 2. Click **Code > Codespaces > "..." > New with options...**
 
 
-<img height="350" alt="codespaces new" src="https://github.com/user-attachments/assets/08ae1ad0-962e-4f33-8fd7-fa8a4f57ef02" />
+<img width="640" alt="codespaces new" src="https://github.com/user-attachments/assets/08ae1ad0-962e-4f33-8fd7-fa8a4f57ef02" />
 
 3. Choose the following options:
   * Branch: `workshop-2026`.
   * Dev container configuration: `Chaste/Pychaste`.
   * Machine type: `4-core` recommended or higher if available.
-<img height="350" alt="codespaces config" src="https://github.com/user-attachments/assets/f92e3689-dbeb-43a4-af48-c931b6ab30aa" />
+<img width="640" alt="codespaces config" src="https://github.com/user-attachments/assets/f92e3689-dbeb-43a4-af48-c931b6ab30aa" />
 
 4. Click **Create codespace** and wait for it to build.
 5. Once the codespace is ready, create a `notebooks` folder in the root of the source tree.
