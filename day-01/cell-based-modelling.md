@@ -21,14 +21,13 @@ There are multiple ways to get set up for this session, described below. We reco
 4. Choose the following options:
   * Branch: `workshop-2026`.
   * Dev container configuration: `Chaste/Pychaste`.
-  * Machine type: `4-core` or higher.
+  * Machine type: `4-core` recommended or higher if available.
 <img height="350" alt="codespaces config" src="https://github.com/user-attachments/assets/f92e3689-dbeb-43a4-af48-c931b6ab30aa" />
 
-7. Choose a machine type — 4 cores / 16 GB RAM is recommended if available.
-8. Click **Create codespace** and wait for it to build.
-9. Once the codespace is ready, create a `notebooks` folder in the root of the source tree.
-10. Open the [workshop notebook](https://colab.research.google.com/drive/1zgoqilNJAMf0frdSzJ71yERnDPyaNnWY) in Colab, then use **File > Download > Download .ipynb** to save it locally.
-11. Drag the downloaded `.ipynb` file into the `notebooks` folder in the codespace's file explorer, then open it and select the PyChaste kernel.
+5. Click **Create codespace** and wait for it to build.
+6. Once the codespace is ready, create a `notebooks` folder in the root of the source tree.
+7. Open the [workshop notebook](https://colab.research.google.com/drive/1zgoqilNJAMf0frdSzJ71yERnDPyaNnWY) in Colab, then use **File > Download > Download .ipynb** to save it locally.
+8. Drag the downloaded `.ipynb` file into the `notebooks` folder in the codespace's file explorer, then open it and select the PyChaste kernel.
 
 ## Local conda instructions
 
