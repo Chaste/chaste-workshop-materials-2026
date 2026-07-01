@@ -117,9 +117,9 @@ This gives you the same setup as the Codespaces option, but running locally thro
 ## Colab instructions
 
 > [!NOTE]
-> Using Colab with conda packages can be unstable, so use it only if the other options aren't working for you. Colab is provided here as a fallback.
+> Using Colab with conda packages can be unstable, so use it only if the other options aren't working for you. Colab is only provided here as a fallback.
 
-[Open the notebook in Colab](https://colab.research.google.com/drive/1zgoqilNJAMf0frdSzJ71yERnDPyaNnWY) and follow the instructions at the top on Colab prep.
+[Open the notebook in Colab](https://colab.research.google.com/drive/1zgoqilNJAMf0frdSzJ71yERnDPyaNnWY) and follow the **Colab Prep** instructions near the top of the notebook.
 
 
 ## Next Steps
