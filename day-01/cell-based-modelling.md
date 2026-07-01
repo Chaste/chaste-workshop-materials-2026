@@ -4,6 +4,12 @@ In this session, you'll work through a notebook that builds and runs a simple ce
 
 There are multiple ways to get set up for this session, described below. We recommend using the codespaces option, but you can try different options and pick whichever works best for you.
 
+- [Codespace](#codespace-instructions)
+- [Conda](#local-conda-instructions)
+- [Docker](#local-docker-instructions)
+- [Devcontainer](#local-devcontainer-instructions)
+- [Colab](#colab-instructions)
+
 ## Codespace instructions
 
 > [!TIP]
