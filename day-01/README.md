@@ -18,8 +18,7 @@
 ## Hands-on session: Cell-based modelling with Chaste (14:00-15:00)
 [<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]](cell-based-modelling.md)
 
-## Scientific case study #1 (15:00-15:30)
-[<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]]()
+## Scientific case study #1: Vaishnudebi Dutta - An agent-based model to investigate the dynamics of HIF, TGF-𝛼, and EGFR signalling under hypoxic conditions in cancer spheroids (15:00-15:30)
 
 ## Bring your own project #1 (15:30-16:30)
 

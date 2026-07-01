@@ -8,7 +8,7 @@
 
 ## Coffee break (11:30-11:45)
 
-## Scientific case study #3 (11:45-12:15)
+## Scientific case study #3: Gary Mirams - Cardiac Chaste (11:45-12:15)
 [<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]]()
 
 ## Retrospective session (12:15-12:30)

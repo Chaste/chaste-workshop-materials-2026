@@ -15,7 +15,7 @@
 
 ## Lunch (12:30-13:30)
 
-## Scientific case study #2 (13:30-14:00)
+## Scientific case study #2: Josh Grier - Modelling T cell maturation within the thymus (13:30-14:00)
 [<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]]()
 
 ## Introduction to SBML (14:00-14:30)
