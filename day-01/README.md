@@ -5,6 +5,10 @@
 
 
 
+## Hands-on session: Cell-based modelling with Chaste (14:00)
+[<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]](cell-based-modelling.md)
+
+
 <br> <br>
 
 ---
