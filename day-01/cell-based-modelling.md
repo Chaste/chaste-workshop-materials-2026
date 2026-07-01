@@ -12,14 +12,23 @@ There are multiple ways to get set up for this session, described below. We reco
 > [!IMPORTANT]
 > You'll need a GitHub account to use Codespaces. If you don't have one, [sign up](https://github.com/signup) and continue with the following instructions.
 
-1. Go to the [Chaste repository](https://github.com/Chaste/Chaste) and switch to the `workshop-2026` branch.
+1. Go to the [Chaste repository](https://github.com/Chaste/Chaste).
 2. Click **Code > Codespaces > "..." > New with options...**
-3. Under **Dev container configuration**, choose the PyChaste configuration (`chaste/pychaste` image).
-4. Choose a machine type — 4 cores / 16 GB RAM is recommended if available.
-5. Click **Create codespace** and wait for it to build.
-6. Once the codespace is ready, create a `notebooks` folder in the root of the source tree.
-7. Open the [workshop notebook](https://colab.research.google.com/drive/1zgoqilNJAMf0frdSzJ71yERnDPyaNnWY) in Colab, then use **File > Download > Download .ipynb** to save it locally.
-8. Drag the downloaded `.ipynb` file into the `notebooks` folder in the codespace's file explorer, then open it and select the PyChaste kernel.
+
+
+<img height="350" alt="codespaces new" src="https://github.com/user-attachments/assets/08ae1ad0-962e-4f33-8fd7-fa8a4f57ef02" />
+
+4. Choose the following options:
+  * Branch: `workshop-2026`.
+  * Dev container configuration: `Chaste/Pychaste`.
+  * Machine type: `4-core` or higher.
+<img height="350" alt="codespaces config" src="https://github.com/user-attachments/assets/f92e3689-dbeb-43a4-af48-c931b6ab30aa" />
+
+7. Choose a machine type — 4 cores / 16 GB RAM is recommended if available.
+8. Click **Create codespace** and wait for it to build.
+9. Once the codespace is ready, create a `notebooks` folder in the root of the source tree.
+10. Open the [workshop notebook](https://colab.research.google.com/drive/1zgoqilNJAMf0frdSzJ71yERnDPyaNnWY) in Colab, then use **File > Download > Download .ipynb** to save it locally.
+11. Drag the downloaded `.ipynb` file into the `notebooks` folder in the codespace's file explorer, then open it and select the PyChaste kernel.
 
 ## Local conda instructions
 
