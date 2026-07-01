@@ -130,4 +130,4 @@ This gives you the same setup as the Codespaces option, but running locally thro
 
 ## Next Steps
 
-Once you've completed the notebook, take a look at the rest of the [PyChaste tutorials](https://chaste.github.io/pychaste/tutorials/).
+Once you've completed the notebook, take a look at the rest of the PyChaste tutorials in `pychaste/src/py/doc/tutorial/*.ipynb`.
