@@ -39,7 +39,7 @@ If you'd rather work on your own laptop:
    mamba install -c conda-forge jupyterlab
    jupyter lab
    ```
-   If you already have Jupyter Lab installed system-wide, you don't need it in the `pychaste` environment — just install `ipykernel` and register the environment as a kernel instead:
+   If you already have Jupyter Lab installed system-wide, you don't need it in the `pychaste` environment. Instead, install `ipykernel` and register the environment as a kernel instead:
    ```
    mamba install -c conda-forge ipykernel
    python -m ipykernel install --user --name pychaste --display-name "Python (pychaste)"
@@ -57,4 +57,4 @@ If you'd rather work on your own laptop:
 
 ## Next Steps
 
-Once you've completed the notebook, take a look at the rest of the [PyChaste tutorials](https://chaste.github.io/pychaste/tutorials/):
+Once you've completed the notebook, take a look at the rest of the [PyChaste tutorials](https://chaste.github.io/pychaste/tutorials/).
