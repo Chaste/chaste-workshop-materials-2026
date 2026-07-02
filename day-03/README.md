@@ -1,7 +1,7 @@
 # Day 03 - Fri 3rd July
 
 ## Hands-on session: Creating Python bindings (9:30-10:30)
-[<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]]()
+[<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]](creating-python-bindings.md)
 
 ## "How to get further support / how to contribute to Chaste" (10:30-11:30)
 [<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]]()
