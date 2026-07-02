@@ -35,7 +35,7 @@ You'll create a new Force class, generate Python bindings for it, and use it in 
 > There are convenience scripts in the project folder to help with building the code. For example, from the project folder:
 >
 > ```sh
-> scripts/configure.sh          # first time only
+> scripts/configure.sh          # do this only when you add new source files or wrappers
 > NCORES=16 scripts/compile.sh  # rebuild the project and bindings
 > scripts/bindings_install.sh   # install the bindings into .virtualenv/
 > ```
