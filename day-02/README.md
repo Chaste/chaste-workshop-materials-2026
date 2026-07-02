@@ -7,7 +7,8 @@
 [<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]](https://docs.google.com/presentation/d/1ubNiZ9yc7ASMMjAcFNzGzUSv3pqJt30OVV9b8SexWg0/edit?usp=sharing)
 
 ## Hands-on session: User projects & C++ API (10:15-11:15)
-[<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]]()
+[<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]](https://docs.google.com/presentation/d/1pz7hqgmHb4xsMbYQNPK1739pTtTwLcmmN8GHQ72fP9M/edit?usp=sharing)
+[<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]](https://github.com/Chaste/IntroToChasteCpp2026)
 
 ## Coffee break (11:15-11:30)
 
