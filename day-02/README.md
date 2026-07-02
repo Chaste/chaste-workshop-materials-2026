@@ -1,9 +1,10 @@
 # Day 02 - Thu 2nd July
 
 ## Early feedback session (09:30-09:35)
+[menti.com](https://www.menti.com/)
 
 ## "Chaste for cell-based modelling - latest features and future plans" (9:30-10:15)
-[<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]]()
+[<img width="64" height="64" alt="pitch-deck" src="https://github.com/user-attachments/assets/333a89b8-4773-4e23-af9c-bfaa577a2ab7" /><br>[Slides]](https://docs.google.com/presentation/d/1ubNiZ9yc7ASMMjAcFNzGzUSv3pqJt30OVV9b8SexWg0/edit?usp=sharing)
 
 ## Hands-on session: User projects & C++ API (10:15-11:15)
 [<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]]()
