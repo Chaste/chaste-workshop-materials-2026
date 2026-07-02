@@ -13,7 +13,7 @@
 ## Coffee break (11:15-11:30)
 
 ## Hands-on session: The subcellular element method (11:30-12:30)
-[<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Instructions]]()
+[<img width="64" height="64" alt="flask" src="https://github.com/user-attachments/assets/73e64560-2317-4126-a690-a55620321a4b" /><br>[Slides]](https://fcooper8472.github.io/slides/sem-chaste/)
 
 ## Lunch (12:30-13:30)
 
