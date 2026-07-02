@@ -31,7 +31,7 @@ This creates a project set up to generate Python bindings, with the [cppwg](http
 
 You'll create a new Force class, generate Python bindings for it, and use it in a Python script. Follow the walkthrough in the [`examples/my_force`](https://github.com/Chaste/template_project/tree/workshop-2026/examples/my_force) directory of the template.
 
-> [!NOTE]
+> [!TIP]
 > There are convenience scripts in the project folder to help with building the code. For example, from the project folder:
 >
 > ```sh
@@ -39,8 +39,7 @@ You'll create a new Force class, generate Python bindings for it, and use it in 
 > NCORES=16 scripts/compile.sh  # rebuild the project and bindings
 > scripts/bindings_install.sh   # install the bindings into .virtualenv/
 > ```
-
-> [!TIP]
+>
 > The first `compile.sh` can take a while. Subsequent builds are much faster because only your changes are recompiled. Set `NCORES` to the number of cpu cores in your codespace for a faster build.
 
 ## Next steps
