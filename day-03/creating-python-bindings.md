@@ -45,5 +45,5 @@ You'll create a new Force class, generate Python bindings for it, and use it in 
 ## Next steps
 
 - Add another method to your Force class, or create a different class, and add it to `dynamic/config.yaml` the same way.
-- Regenerate the wrappers and rebuild.
+- Regenerate the wrappers (wrappers are generated during configure), and then recompile.
 - Reinstall in the virtualenv and test your new class in Python.
